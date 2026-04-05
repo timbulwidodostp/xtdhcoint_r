@@ -1,6 +1,8 @@
 # xtdhcoint_r
 Durbin-Hausman Panel Cointegration Tests Use xtdhcoint With (In) R Software
 
+https://www.youtube.com/watch?v=IFMtmI_yduE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
